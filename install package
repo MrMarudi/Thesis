@@ -1,0 +1,6 @@
+1. install https://visualstudio.microsoft.com/downloads/ with Desktops development with c package 
+2. extract the package zip folder
+3. open anaconda prompt as admin 
+4. reach the package folder with cd commend 
+5. run python setup.py install
+
