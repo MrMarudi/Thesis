@@ -11,5 +11,5 @@ To run the experiment notebook please install the following:
   - 2.3 reach the package folder with cd commend.  
   - 2.4 run python setup.py install. 
   
-- 3. Expermint data can be found here :  https://drive.google.com/drive/folders/1KvmZX2HJuDo-etJMJ51PtalSHJY4ysQm?usp=sharing
+-3. Expermint data can be found here :  https://drive.google.com/drive/folders/1KvmZX2HJuDo-etJMJ51PtalSHJY4ysQm?usp=sharing
 
