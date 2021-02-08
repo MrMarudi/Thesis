@@ -1,7 +1,8 @@
 # Thesis
 ## Matan Marudi Thesis : A Decision-Trees Based Approach for Ordinal Classification Problems
+### supervision of : Dr. Gonen Singer (gonen.singer@biu.ac.il)  & Prof. Irad Ben-Gal (bengal@tauex.tau.ac.il)
 
-### To run the experiment notebook please install the following: 
+#### To run the experiment notebook please install the following: 
 - 1.visual studio with c python compiler:
   - 1.1 install https://visualstudio.microsoft.com/downloads/ with Desktops development with c package 
   
@@ -14,3 +15,4 @@
   
 - 3.Expermint data can be found here :  https://www.dropbox.com/sh/ejdk4faasebscpj/AADgWDvHVmBg2Oq0Wq9bgvASa?dl=0
 
+For any question please contact me at Mr.Marudi@gmail.com
