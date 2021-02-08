@@ -1,7 +1,7 @@
 # Thesis
-Matan Marudi Thesis : A Decision-Trees Based Approach for Ordinal Classification Problems
+## Matan Marudi Thesis : A Decision-Trees Based Approach for Ordinal Classification Problems
 
-To run the experiment notebook please install the following: 
+### To run the experiment notebook please install the following: 
 - 1.visual studio with c python compiler:
   - 1.1 install https://visualstudio.microsoft.com/downloads/ with Desktops development with c package 
   
